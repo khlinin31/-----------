@@ -79,7 +79,7 @@ topology:
 ***
 #### **3** Результат запуска lab1.yaml:
 
-![](https://github.com/khlinin31/2023_2024-introduction_in_routing-k33202-khlynin_K_D/blob/main/lab1/img/clab.jpg)
+![](https://github.com/khlinin31/2023_2024-introduction_in_routing-k33202-khlynin_K_D/blob/main/lab1/img/clab.jpeg)
 
 ***
 
