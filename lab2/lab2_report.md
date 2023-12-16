@@ -82,7 +82,7 @@ topology:
 
 #### **3** Результат запуска lab2.yaml:
 
-![](https://github.com/khlinin31/2023_2024-introduction_in_routing-k33202-khlynin_K_D/blob/main/lab2/img/clab.jpg)
+![](https://github.com/khlinin31/2023_2024-introduction_in_routing-k33202-khlynin_K_D/blob/main/lab2/img/clab.jpeg)
 
 #### **4** Текст конфигураций для каждого сетевого устройства:
 
