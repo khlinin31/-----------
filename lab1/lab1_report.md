@@ -25,7 +25,7 @@ Date of finished: 18.11.2023
 
 #### ***1*** Схема связи:
 
-![](https://github.com/khlinin31/2023_2024-introduction_in_routing-k33202-khlynin_K_D/blob/main/lab1/img/img1.jpeg "Схема связи")
+![](https://github.com/khlinin31/2023_2024-introduction_in_routing-k33202-khlynin_K_D/blob/main/lab1/img/img1.jpeg)
 
 #### **2** Файл yaml:
 
